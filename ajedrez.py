@@ -1,0 +1,7 @@
+import pygame 
+VENTANA_HORI= 800
+VENTANA_VERT = 800
+Fps = 60
+NEGRO = (0,0,0)
+BLANCO = (255,255,255)
+FONDO = (24,25,30)
